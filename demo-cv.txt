@@ -1,0 +1,24 @@
+HỒ SƠ CÁ NHÂN
+
+Họ tên: Nguyễn Văn An
+Email: nguyenvanan@gmail.com
+Số điện thoại: 0901234567
+Địa chỉ: 123 Đường ABC, Quận 1, TP.HCM
+
+HỌC VẤN
+- Đại học Bách Khoa TP.HCM
+- Chuyên ngành: Công nghệ thông tin
+- Tốt nghiệp: 2020
+
+KINH NGHIỆM LÀM VIỆC
+- Công ty ABC (2020-2022): Lập trình viên Frontend
+- Công ty XYZ (2022-nay): Senior Developer
+
+KỸ NĂNG
+- JavaScript, React, Node.js
+- HTML, CSS, Bootstrap
+- Git, Docker, AWS
+- Tiếng Anh: TOEIC 750
+
+MỤC TIÊU
+Trở thành một Full-stack Developer chuyên nghiệp và đóng góp vào các dự án công nghệ tiên tiến.
